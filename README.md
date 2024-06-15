@@ -13,3 +13,9 @@ proper access to the device's external storage. Additional features include the 
 the UI, support for serializing and passing song objects between activities, and the potential for 
 future enhancements such as playlist management, search functionality, and integration with 
 online music streaming services. Overall, the music player application provides users with a userfriendly and feature-rich platform for enjoying their music collection on their Android devices.
+
+## ScreenShot
+
+<img src="Screenshot/Picture1.jpg" width="500" />
+<img src="Screenshot/Picture2.jpg" width="500" />
+<img src="Screenshot/Picture3.jpg" width="500" />
